@@ -26,4 +26,4 @@ The main objective of this case study is to apply various SQL concepts and techn
 9) For each order, determine if it was ‘Expensive’ (total over 300), ‘Affordable’ (total over 100), or ‘Cheap’.
 10) Find customers who have ordered the product with the highest price.
 
-### View mu solution [here] (https://github.com/rushalijain06/Tiny_Shop_Sales/blob/main/tiny%20shop%20sales.sql)
+### View mu solution [here!] (https://github.com/rushalijain06/Tiny_Shop_Sales/blob/main/tiny%20shop%20sales.sql)
